@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samir\\source\\repos\\RecordsTuple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32F6BE7D-1FF8-497F-9CD3-E0A1C78C7500}|RecordsTuple.csproj|c:\\users\\samir\\source\\repos\\recordstuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F6BE7D-1FF8-497F-9CD3-E0A1C78C7500}|RecordsTuple.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A59D49-AA64-421F-8FCC-FC155A259830}|..\\Core\\Core.csproj|c:\\users\\samir\\source\\repos\\core\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A59D49-AA64-421F-8FCC-FC155A259830}|..\\Core\\Core.csproj|c:\\users\\samir\\source\\repos\\core\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A59D49-AA64-421F-8FCC-FC155A259830}|..\\Core\\Core.csproj|c:\\users\\samir\\source\\repos\\core\\models\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\source\\repos\\Core\\Models\\Helper.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\Helper.cs",
+              "ToolTip": "C:\\Users\\samir\\source\\repos\\Core\\Models\\Helper.cs",
+              "RelativeToolTip": "..\\Core\\Models\\Helper.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:40:22.535Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\source\\repos\\Core\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\samir\\source\\repos\\Core\\Models\\Blog.cs",
+              "RelativeToolTip": "..\\Core\\Models\\Blog.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAACsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:27:25.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\source\\repos\\Core\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "..\\Core\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\samir\\source\\repos\\Core\\Models\\Comment.cs",
+              "RelativeToolTip": "..\\Core\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:20:07.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samir\\source\\repos\\RecordsTuple\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\samir\\source\\repos\\RecordsTuple\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:17:26.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
